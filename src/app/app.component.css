@@ -1,0 +1,16 @@
+.item {
+  padding: 1rem;
+  margin: 1rem;
+  color: #ffffff;
+}
+
+.item:hover {
+  transform: scale(1.1);
+  transition: transform 300ms;
+}
+
+.custom-placeholder {
+  background: #ccc;
+  border: dotted 3px #999;
+  min-height: 60px;
+}
